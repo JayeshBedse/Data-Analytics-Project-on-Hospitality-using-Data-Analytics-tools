@@ -1,5 +1,5 @@
 # Data-Analytics-Project-on-Hospitality-using-Data analytics tools
- I have designed this project to transform raw data into actionable insights using ETL processes, data modelling.
+ I have designed this project by transforming raw data into actionable insights using ETL processes, data modelling using Data analytics tools.
 This project focuses on business-critical KPIs and demonstrates how effective data visualization and storytelling can empower decision-making.
 
 Key Features of the Project :
