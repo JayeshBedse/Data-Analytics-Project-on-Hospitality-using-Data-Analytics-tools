@@ -1,10 +1,13 @@
-# Data-Analytics-Project-on-Hospitality-using-Microsoft-PowerBI
- I have designed this project to transform raw data into actionable insights using ETL processes, data modelling, and Microsoft PowerBI dashboards.
+# Data-Analytics-Project-on-Hospitality-using-Data analytics tools
+ I have designed this project to transform raw data into actionable insights using ETL processes, data modelling.
 This project focuses on business-critical KPIs and demonstrates how effective data visualization and storytelling can empower decision-making.
-Key Features of the Dashboard:
+
+Key Features of the Project :
+
 1️⃣ Overview Dashboard
 Key KPIs: Total Revenue, Total Bookings, Occupancy%, and Average Ratings.
 Visuals: Weekly check-in trends, booking platform breakdown (e.g., MakeMyTrip, Tripster, Direct, etc), city-wise occupancy distribution, weekly revenue realized  and Booking Status wise Percentage revenue generated.
+
 2️⃣ Financial Trend Analysis Dashboard
 Key KPIs: Realisation %, ADR, RevPAR (Revenue per Available Room), and DBRN (Daily Booked Room Nights)
 Visuals: Revenue gain vs. cancellation losses, revenue contribution by hotels, and Week Over Week financial performance trends – RevPAR, ADR, Realisation.
