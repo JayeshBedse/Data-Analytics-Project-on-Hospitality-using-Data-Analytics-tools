@@ -1,4 +1,4 @@
-# Data-Analytics-Project-on-Hospitality-using-Tableau
+# Data-Analytics-Project-on-Hospitality-using-Microsoft-PowerBI
  I have designed this project to transform raw data into actionable insights using ETL processes, data modelling, and Microsoft PowerBI dashboards.
 This project focuses on business-critical KPIs and demonstrates how effective data visualization and storytelling can empower decision-making.
 Key Features of the Dashboard:
